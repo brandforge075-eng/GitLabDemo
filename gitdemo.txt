@@ -1,2 +1,2 @@
 This file was created in Eclipse for Git practical.
-I am working on this  project lets do some changes 
+tHIS IS java project
